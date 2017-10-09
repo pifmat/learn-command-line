@@ -23,8 +23,11 @@ Topics:
 - standard folders
 - export
 - script
-- zsh - ohmyzsh
+- zsh - ohmyzsh* 
 - alias
+
+Prima di installare ohmyzsh sarà richiesto di installare git. Potete digitare questo comando: sudo apt install git-core.
+Una volta installato git sarà possibile lanciare questo comando sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
 Resources:
 
